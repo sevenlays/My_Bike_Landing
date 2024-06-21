@@ -1,4 +1,4 @@
-# My Bike Landing Page [DEMO LINK]: (https://sevenlays.github.io/layout_landing-page/),
+# My Bike Landing Page [DEMO LINK]: (https://sevenlays.github.io/My_Bike_Landing/),
 
 Project Timeline:
 1. Preparation for Development
